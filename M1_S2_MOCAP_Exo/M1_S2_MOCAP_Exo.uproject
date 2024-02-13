@@ -43,6 +43,14 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
+		},
+		{
+			"Name": "LiveLinkControlRig",
+			"Enabled": true
+		},
+		{
+			"Name": "HairStrands",
+			"Enabled": true
 		}
 	]
 }

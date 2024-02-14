@@ -3,3 +3,10 @@ M1_S2_MOCAP_Exo/M1_S2_MOCAP_Exo.uproject
 M1_S2_MOCAP_Exo/Saved/Logs/M1_S2_MOCAP_Exo.log
 M1_S2_MOCAP_Exo/Saved/Logs/M1_S2_MOCAP_Exo_2.log
 *.log
+M1_S2_MOCAP_Exo/Intermediate/CachedAssetRegistry_0.bin
+M1_S2_MOCAP_Exo/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+M1_S2_MOCAP_Exo/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Package/Windows/Engine/Binaries/Win64/UnrealGame.exe
+Package/Windows/Engine/Binaries/Win64/UnrealGame.pdb
+Package/Windows/Independent_Project.exe
+Package/Windows/Independent_Project/Content/Paks/Independent_Project-Windows.ucas
